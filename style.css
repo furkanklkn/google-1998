@@ -1,0 +1,39 @@
+.img {
+    text-align: center;
+}
+.center {
+    text-align: center;
+    background-color: #EEEEEE;
+    padding:2px;
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+}
+.bluebox {
+   display: flex; 
+   text-align: center;
+}
+.box1 {
+    width: 460px;
+	height: 80px;
+	margin: 1px;
+    float: left;
+    margin-left: 1.5cm;
+    background-color: rgb(126, 229, 218);
+}
+.iç {
+    padding: 11px;
+}
+.box2 {
+	width: 235px;
+    height: 80px;
+	margin: 1px;
+    float: left;
+    background-color: rgb(112, 204, 194);
+}  
+.box3 {
+    width: 537px;
+	height: 80px;
+	margin: 1px;
+    float: left;
+    background-color: rgb(98, 179, 170);
+}
